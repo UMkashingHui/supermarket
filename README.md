@@ -1,3 +1,4 @@
 # supermarket
 This is a supermarket simulation for chasing fruit.
-You can add fruit with its id, name, price, unit into fruit.txt so that a new kind of fruit will be shown in console.
+
+You can add fruit with its id, name, price, unit into fruit.txt seperated by a space so that a new kind of fruit will be shown in console.
